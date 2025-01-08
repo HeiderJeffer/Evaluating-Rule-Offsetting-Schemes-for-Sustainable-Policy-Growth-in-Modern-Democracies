@@ -1,6 +1,10 @@
 ### Evaluating Rule-Offsetting Schemes for Sustainable Policy Growth in Modern Democracies
 
 By Heider Jeffer
+
+January 8, 2025
+
+
 ### Explore Our Project  
 Discover the full scope of our work:  
 - [GitHub Repository](https://github.com/HeiderJeffer/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-Modern-Democracies)  
