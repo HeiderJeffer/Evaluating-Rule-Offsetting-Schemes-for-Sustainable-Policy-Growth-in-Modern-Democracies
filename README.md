@@ -7,7 +7,13 @@ January 8, 2025
 
 ### Explore Our Project  
 Discover the full scope of our work:  
-- [GitHub Repository](https://github.com/HeiderJeffer/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-Modern-Democracies)  
+- [GitHub Repository](https://github.com/HeiderJeffer/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-Modern-Democracies)
+
+### Dive into the Source Code  
+Gain deeper insights into our methodologies:  
+
+- **Evaluate rule offsetting schemes**
+   -  [View on GitHub](https://github.com/HeiderJeffer/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-Modern-Democracies/blob/main/evaluate_rule_offsetting_schemes.ipynb)  
 
 
 ### **Introduction**
