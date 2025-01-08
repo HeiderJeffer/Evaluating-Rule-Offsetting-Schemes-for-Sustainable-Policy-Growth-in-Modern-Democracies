@@ -1,6 +1,6 @@
 ---
 
-### **Research Plan: Evaluating Rule-Offsetting Schemes for Sustainable Policy Growth in Modern Democracies**
+### Evaluating Rule-Offsetting Schemes for Sustainable Policy Growth in Modern Democracies
 
 By Heider Jeffer
 
