@@ -20,7 +20,7 @@ Gain deeper insights into our methodologies:
  
 ### Appendix: Explanation of Key Formulas
 
-- [View on GitHub](https://github.com/HeiderJeffer/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-Modern-Democracies/blob/main/evaluate_rule_offsetting_schemes.ipynb)
+   - [View on GitHub](https://github.com/HeiderJeffer/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-Modern-Democracies/blob/main/tex/main.pdf)
 
 ---
 
