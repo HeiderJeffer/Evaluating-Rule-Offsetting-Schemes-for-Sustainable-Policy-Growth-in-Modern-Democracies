@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.9)  9 JAN 2025 04:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.23)  23 JAN 2025 06:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,7 +8,7 @@ entering extended mode
 (D:/GitHub/Evaluating-Rule-Offsetting-Schemes-for-Sustainable-Policy-Growth-in-
 Modern-Democracies/tex/main.tex
 LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
+L3 programming layer <2024-12-25>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size12.clo
@@ -162,15 +162,15 @@ MS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 6\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 27)[] = 0
 [4] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
-L3 programming layer <2024-12-09>
+L3 programming layer <2024-12-25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1180 strings out of 473577
- 18187 string characters out of 5726307
- 410983 words of memory out of 5000000
- 24413 multiletter control sequences out of 15000+600000
- 563675 words of font info for 55 fonts, out of 8000000 for 9000
+ 1180 strings out of 473536
+ 18187 string characters out of 5725029
+ 411780 words of memory out of 5000000
+ 24449 multiletter control sequences out of 15000+600000
+ 564443 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,6n,65p,352b,181s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\313\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx14
